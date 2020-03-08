@@ -1,0 +1,146 @@
+[
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "# new feature"
+      }
+    ],
+    "line": 3,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6815244,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ReportingHooks.setUp(Scenario)"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Login-SPI Generic",
+        "description": "",
+        "id": "spi-generic-test-cases;login-\u003capp\u003e;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1391475,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ReportingHooks.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 11941652266,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 7,
+                "value": "# Login Page"
+              }
+            ],
+            "line": 8,
+            "name": "I login to the \u0027SPI\u0027 application",
+            "match": {
+              "location": "StepsLogin.i_login_to_the_spi_application()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@SpiGeneric"
+          },
+          {
+            "line": 5,
+            "name": "@BasicWorkFlow"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5135148,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ReportingHooks.setUp(Scenario)"
+            }
+          }
+        ],
+        "line": 22,
+        "name": "Scenario - SPI001_CreateANewCustomer",
+        "description": "",
+        "id": "spi-generic-test-cases;scenario---\u003ctestcase\u003e;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 3774463,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ReportingHooks.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 22341796017,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on \u0027New Customer \u0026 Quote\u0027 under Quote/Policy",
+            "match": {
+              "location": "StepsLogin.i_click_on_new_customer_quote_under_policy_menu()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 106367,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I fill all the required fields in customer information",
+            "match": {
+              "location": "StepsLogin.i_fill_all_required_fields_in_customer_information()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@SpiGeneric"
+          }
+        ]
+      }
+    ],
+    "name": "Spi Generic test cases",
+    "description": "",
+    "id": "spi-generic-test-cases",
+    "keyword": "Feature",
+    "uri": "SpiGenericTests/SpiGeneric.feature",
+    "tags": [
+      {
+        "line": 2,
+        "name": "@SpiGeneric"
+      }
+    ]
+  }
+]

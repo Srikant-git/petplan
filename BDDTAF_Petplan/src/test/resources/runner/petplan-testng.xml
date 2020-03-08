@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="petplan automation test">
+  		<parameter name="automationName" value="selenium"></parameter>
+        <parameter name="browser" value="chrome"></parameter> 
+        <parameter name="browserVersion" value="80"></parameter>
+        <parameter name="environment" value="local"></parameter>
+        <parameter name="platformName" value="windows 7"></parameter>
+        <parameter name="appName" value="PETPLAN"></parameter>
+        <parameter name="autoStart" value="web"></parameter>
+    <classes>
+      <class name="petplan.common.PetplanAccountPortal"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

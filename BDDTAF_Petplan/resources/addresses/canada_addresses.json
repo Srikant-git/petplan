@@ -1,0 +1,296 @@
+{
+  "AB": [
+    [
+      "T8V 3Y4",
+      "11633 100 St",
+      "AB",
+      "Grande Prairie"
+    ],
+    [
+      "T2P 2Z2",
+      "324 8 Ave SW, Calgary, AB T2P 2Z2, Canada",
+      "AB",
+      "Calgary"
+    ],
+    [
+      "T5R 0T2",
+      "8420 145 St NW, Edmonton, AB T5R 0T2, Canada",
+      "AB",
+      "Calgary"
+    ],
+    [
+      "T9H 1S8",
+      "10006 MacDonald Ave, Fort McMurray, AB T9H 1S8, Canada",
+      "AB",
+      "Fort McMurray"
+    ]
+  ],
+  "BC": [
+    [
+      "V1C 3R7",
+      "600 Cranbrook St N",
+      "BC",
+      "Cranbrook"
+    ],
+    [
+      "V8G 3B3",
+      "3207 Munroe St, Terrace, BC V8G 3B3, Canada",
+      "BC",
+      "Cranbrook"
+    ],
+    [
+      "V5x 2a2",
+      "605 east 60th ave",
+      "BC",
+      "Vancouver"
+    ],
+    [
+      "V7E 6N1",
+      "336-5600 Andrews Road",
+      "BC",
+      "Richmond"
+    ]
+  ],
+  "MB": [
+    [
+      "R0B 0E0",
+      "Division No. 23",
+      "MB",
+      "Unorganized"
+    ],
+    [
+      "R1N 0G7",
+      "127 Fisher Ave E",
+      "MB",
+      "Winnipeg"
+    ],
+    [
+      "R2Y 2E9",
+      "718-94 Quail Ridge Rd",
+      "MB",
+      "Winnipeg"
+    ],
+    [
+      "R5A 1A6",
+      "151 Gagnon Dr",
+      "MB",
+      "St Adolphe"
+    ]
+  ],
+  "NB": [
+    [
+      "E2L 1P5",
+      "290 Duke Street",
+      "NB",
+      "Saint John"
+    ],
+    [
+      "E2L 1P5",
+      "290 Duke Street",
+      "NB",
+      "Saint John"
+    ],
+    [
+      "E4W 4B2",
+      "4 Lise St",
+      "NB",
+      "Richibucto"
+    ],
+    [
+      "E2L 2M5",
+      "194 Sydney Street",
+      "NB",
+      "Saint John"
+    ]
+  ],
+  "NL": [
+    [
+      "A1C 2H9",
+      "222 Lemarchant Rd",
+      "NL",
+      "St. John's"
+    ],
+    [
+      "A0G 2X0",
+      "210 Main Road, Joe Batt's Arm, NL A0G 2X0",
+      "NL",
+      "Joe Batt's Arm"
+    ],
+    [
+      "A1C 3K2",
+      "115 Cavendish Square, St. John's, NL A1C 3K2",
+      "NL",
+      "St. John's"
+    ],
+    [
+      "A1A 2H4",
+      "248 Torbay Rd, St. John's, NL A1A 2H4",
+      "NL",
+      "St. John's"
+    ]
+  ],
+  "NS": [
+    [
+      "B3H 3G5",
+      "1980 Robie St",
+      "NS",
+      "Halifax"
+    ],
+    [
+      "b3k 2v6",
+      "6353 bayne st",
+      "NS",
+      "halifax"
+    ],
+    [
+      "B3l 3n3",
+      "2825 Connolly street",
+      "NS",
+      "Halifax"
+    ]
+  ],
+  "NT": [
+    [
+      "X1A 2N2",
+      "4401 Franklin Ave",
+      "NT",
+      "Yellowknife"
+    ],
+    [
+      "X0E 1R0",
+      "79 Idoo Tili",
+      "NT",
+      "Gameti"
+    ],
+    [
+      "X0E 0R5",
+      "26 Fir Crescent",
+      "NT",
+      "Hay River"
+    ],
+    [
+      "X1A 1C4",
+      "123 main st",
+      "NT",
+      "Yellowknife"
+    ]
+  ],
+  "NU": [
+    [
+      "X0C 0H0",
+      "Ukkusiksalik National Park",
+      "NU",
+      "Unorganized"
+    ],
+    [
+      "X0B 0C0",
+      "16 Koihok Maghagak",
+      "NU",
+      "Cambridge Bay"
+    ],
+    [
+      "X0B 0C0",
+      "5 Nantik St",
+      "NU",
+      "Cambridge Bay"
+    ]
+  ],
+  "ON": [
+    [
+      "L3T 5W6",
+      "340 John St",
+      "ON",
+      "Thornhill"
+    ],
+    [
+      "L3M 0G1",
+      "70 - 8 Lakelawn Road",
+      "ON",
+      "Grimsby"
+    ],
+    [
+      "L3M 0G1",
+      "70 - 8 Lakelawn Road",
+      "ON",
+      "Grimsby"
+    ]
+  ],
+  "PE": [
+    [
+      "C1A 8T5",
+      "60 Riverside Dr",
+      "PE",
+      "Charlottetown"
+    ],
+    [
+      "C0A 1A0",
+      "4827 Trans-Canada Hwy, Belfast, PE C0A 1A0",
+      "PE",
+      "Belfast"
+    ],
+    [
+      "C0A 1G0",
+      "10 Schoolhouse Ln, Stanley Bridge, PE C0A 1G0",
+      "PE",
+      "Stanley Bridge"
+    ],
+    [
+      "C0A 1H8",
+      "100 Trans-Canada Hwy, Cornwall, PE C0A 1H8",
+      "PE",
+      "Cornwall"
+    ]
+  ],
+  "SK": [
+    [
+      "S3N 2A7",
+      "127 Gladstone Ave N",
+      "SK",
+      "Yorkton"
+    ],
+    [
+      "S4S 3N6",
+      "2930 Albert Street",
+      "SK",
+      "Regina"
+    ],
+    [
+      "S0G 0H0",
+      "box 309",
+      "SK",
+      "bethune"
+    ],
+    [
+      "S0A 1W0",
+      "Box 892",
+      "SK",
+      "Kelvington"
+    ]
+  ],
+  "YT": [
+    [
+      "Y1A 4T2",
+      "25 Boswell Cres",
+      "YT",
+      "Yukon"
+    ],
+    [
+      "Y1A 1G9",
+      "4040 4 Ave",
+      "YT",
+      "Whitehorse"
+    ],
+    [
+      "Y1A 4S6",
+      "14-96 Lewes Blvd",
+      "YT",
+      "Whitehorse"
+    ],
+    [
+      "Y1A 4P9",
+      "9021 Quartz Rd",
+      "YT",
+      "Whitehorse"
+    ]
+  ]
+}
